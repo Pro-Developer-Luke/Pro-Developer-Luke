@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pro-developer-luke" alt="pro-developer-luke" /></a> </p>
 
-- 🔭 I’m currently working on a dynamic news site for gaming as a personal project.
+- 🔭 I’m currently working on a Major project using AI technologies for my final year university project.
 
-- 📚 I’m currently studying **computer science** at Leeds Centr University.
+- 📚 I’m currently studying **computer science** at Leeds Centre University.
 
-- 👨‍💻 All of my projects are discussed within my [portfolio website.](https://pro-developer-luke.github.io/Dev-Portfolio-Website/)
+- 👨‍💻 A large portion of my completed projects are showcased theroughout my [portfolio website.](https://pro-developer-luke.github.io/Dev-Portfolio-Website/)
 
-- 📫 How to reach me **addymy@hotmail.co.uk**
+- 📫 How to reach me, **addymy@hotmail.co.uk**
 
 - 📄 Know about my experiences through my [CV](https://pro-developer-luke.github.io/Dev-Portfolio-Website/Luke_Wood_CV.pdf)
   
