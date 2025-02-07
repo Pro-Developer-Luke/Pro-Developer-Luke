@@ -12,8 +12,6 @@
 - 📫 How to reach me, **addymy@hotmail.co.uk**
 
 - 📄 Know about my experiences through my [CV](https://pro-developer-luke.github.io/Dev-Portfolio-Website/Luke_Wood_CV.pdf)
-  
-- ⚡ Fun fact, I developed my own application in C# that worked on the PlayStation 3 at 13 years old.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
